@@ -1,0 +1,5 @@
+- Purpose: A java-based application to manage basic activities in school context: students, teachers, classes, examinations, marks and managerial reports
+
+- Technology used: Java Swing
+
+To build a Java Swing based desktop application to control administrative activities in a school
